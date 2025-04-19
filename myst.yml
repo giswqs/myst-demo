@@ -18,6 +18,10 @@ project:
       children:
         - file: chapters/chapter-01.ipynb
         - file: chapters/chapter-02.ipynb
+
+  numbering:
+    heading_1: true
+    heading_2: true
 site:
   template: book-theme
   options:

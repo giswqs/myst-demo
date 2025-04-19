@@ -104,6 +104,18 @@ m = leafmap.Map(center=[40, -100], zoom=4)
 m
 ```
 
+## Code blocks
+
+```{code}
+:linenos:
+:emphasize-lines: 3,4
+
+import leafmap.foliumap as leafmap
+
+m = leafmap.Map(center=[40, -100], zoom=4)
+m
+```
+
 ## Conclusion
 
 There are many opportunities to improve open-science communication, to make it more interactive, accessible, more reproducible, and both produce and use structured data throughout the research-writing process. The `mystjs` ecosystem of tools is designed with structured data at its core. We would love if you gave it a try -- learn to get started at <https://myst.tools>.
@@ -115,3 +127,7 @@ There are many opportunities to improve open-science communication, to make it m
 [jupyterbook]: https://jupyterbook.org/
 [jupyterlab-myst]: https://github.com/jupyter-book/jupyterlab-myst
 [sphinx]: https://www.sphinx-doc.org/
+
+```
+
+```

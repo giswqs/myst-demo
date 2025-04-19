@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ab440adc-2db2-4534-8548-ad2b03879434
+  title: Introduction to GIS Programming
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/jupyter-book/mystmd-quickstart
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    # logo_text: Introduction to GIS Programming
+    favicon: images/favicon.ico
+    logo: images/logo.png

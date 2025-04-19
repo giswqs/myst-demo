@@ -69,7 +69,7 @@ MyST is focused on scientific writing, and ensuring that citations are first cla
 Citations are rendered with a popup directly inline.
 :::
 
-MyST aims to show as much information in context as possible, for example, [](#equations) shows a reading experience for a referenced equation: you can immediately **click on the reference**, see the equation, all without loosing any context -- ultimately saving you time. [](doi:10.1145/3411764.3445648) found that these ideas both improved the overall reading experience of articles as well as allowed researchers to answer questions about an article **26% faster** when compared to a traditional PDF!
+MyST aims to show as much information in context as possible, for example, [](#equations) shows a reading experience for a referenced equation: you can immediately **click on the reference**, see the equation, all without losing any context -- ultimately saving you time. [](doi:10.1145/3411764.3445648) found that these ideas both improved the overall reading experience of articles as well as allowed researchers to answer questions about an article **26% faster** when compared to a traditional PDF!
 
 :::{figure} ./images/equations.gif
 :label: equations

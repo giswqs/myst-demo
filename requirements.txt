@@ -3,6 +3,7 @@ altair
 matplotlib
 numpy
 vega_datasets
+leafmap
 
 # To interactively browser Jupyter content with MyST
 jupyterlab_myst

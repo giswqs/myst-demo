@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/jupyter-book/mystmd-quickstart
+  github: https://github.com/giswqs/myst-demo
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme

@@ -4,6 +4,7 @@ project:
   id: ab440adc-2db2-4534-8548-ad2b03879434
   title: MyST Demo
   subtitle: GIS Programming
+  jupyter: true
   # description:
   # keywords: []
   # authors: []

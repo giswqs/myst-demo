@@ -29,3 +29,8 @@ site:
     # logo_text: Introduction to GIS Programming
     favicon: images/favicon.ico
     logo: images/logo.png
+  nav:
+    - title: Open Science
+      url: https://openscience.gishub.org
+    - title: MyST
+      url: https://mystmd.org
